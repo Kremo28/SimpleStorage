@@ -1,3 +1,5 @@
+/* Modules */
+
 const local = require('./simplestorage.min.js');
 
 local.new("nombre", "valor"); //crear un objeto
@@ -10,7 +12,7 @@ local.remove("nombre"); //borrar un objeto
 
 local.clear("nombre"); //eliminar valores un objeto
 
-/* O */
+/* No Modules */
 
 local().new("nombre", "valor"); //crear un objeto
 
