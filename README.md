@@ -1,0 +1,2 @@
+# SimpleStorage
+For the lazy :)
