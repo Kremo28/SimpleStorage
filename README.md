@@ -22,6 +22,6 @@ local.clear("nombre"); //eliminar valores un objeto
 
 **Kremo :)**
 
->collaborator:
+>Collaborator:
 
 **USHIERU**
