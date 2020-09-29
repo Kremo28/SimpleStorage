@@ -4,6 +4,8 @@
 
 > example.js
 
+**Modules**
+
 ```javascript
 
 const local = require("./smplestorage.module.js")
@@ -18,8 +20,13 @@ local().clear("nombre"); //eliminar valores un objeto
 
 local().change("nombre", "nuevo valor"); //cambiar el valor de un objeto
 
+```
+**No Modules:**
+```html
+<scipt src="simplestorage.min.js"></script>
 
-//No Module
+```
+```js
 
 local().new("nombre", "valor"); //crear un objeto
 
@@ -35,8 +42,8 @@ local().change("nombre", "nuevo valor"); //cambiar el valor de un objeto
 
 >Author:
 
-**Kremo :)**
+**Kremo** UwU
 
 >Collaborator:
 
-**USHIERU**
+**USHIERU** OwO
