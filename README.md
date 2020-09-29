@@ -2,7 +2,7 @@
 
 **Es un pequeño simplificador de _LocalStorage_**
 
-> config.js
+> example.js
 
 ```javascript
 
