@@ -40,10 +40,19 @@ local().change("nombre", "nuevo valor"); //cambiar el valor de un objeto
 
 ```
 
+> CDN
+
+```html
+
+<scipt src="http://kremo.tech/cdn/js/simplestorage.min.js"></script>
+<scipt src="http://kremo.tech/cdn/js/simplestorage.module.js"></script>
+
+```
+
 >Author:
 
-**Kremo** UwU
+**Kremo** 
 
 >Collaborator:
 
-**USHIERU** OwO
+**USHIERU** 
