@@ -23,7 +23,7 @@ local().change("nombre", "nuevo valor"); //cambiar el valor de un objeto
 ```
 **No Modules:**
 ```html
-<scipt src="simplestorage.min.js"></script>
+<script src="simplestorage.min.js"></script>
 
 ```
 ```js
