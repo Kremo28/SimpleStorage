@@ -44,8 +44,8 @@ local().change("nombre", "nuevo valor"); //cambiar el valor de un objeto
 
 ```html
 
-<scipt src="http://kremo.tech/cdn/js/simplestorage.min.js"></script>
-<scipt src="http://kremo.tech/cdn/js/simplestorage.module.js"></script>
+<script src="http://kremo.tech/cdn/js/simplestorage.min.js"></script>
+<script src="http://kremo.tech/cdn/js/simplestorage.module.js"></script>
 
 ```
 
